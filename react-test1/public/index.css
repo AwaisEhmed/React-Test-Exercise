@@ -1,0 +1,36 @@
+
+
+.innerCard{
+    padding : 10px 0px 0px 0px ;
+    margin : 20px 0px 0px 0px ;
+    white-space : pre;
+    overflow : hidden;
+    background-color : #dfe6e9;
+    color : #2d3436;
+    font-size : 18px;
+}
+
+.cardContainerStyles{
+    display: flex;
+    flex: 1;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.cardStyles{
+    
+    padding: 30px 30px;
+    width: 21rem;
+    height : 23rem;
+    box-shadow : 5px 5px 20px grey;
+    margin : 20px 10px 10px 10px;
+    padding : 0px;
+}
+
+.detailsStyles{
+    margin: 30px auto;
+}
+
+.addStyles{
+    margin:0px auto;
+}
